@@ -1,0 +1,10 @@
+[
+  {
+    "pixel_coords": [120, 160, 4],
+    "size": "small"
+  },
+  {
+    "pixel_coords": [300, 200, 6],
+    "size": "large"
+  }
+]
