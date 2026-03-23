@@ -1,0 +1,13 @@
+gradio==6.9.0
+librosa==0.9.1
+matplotlib==3.10.8
+numba==0.63.1
+numpy==1.23.5
+psutil==7.2.2
+pyopenjtalk==0.4.1
+scipy==1.17.1
+soundfile==0.13.1
+torch==2.10.0
+tqdm==4.67.1
+Unidecode==1.4.0
+transformers==5.3.0
